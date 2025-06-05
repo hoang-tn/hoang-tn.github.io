@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    # <p></p>
+    <p></p>
     <p>MIT, Cambridge, MA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
