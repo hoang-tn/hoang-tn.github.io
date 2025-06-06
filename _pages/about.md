@@ -12,7 +12,7 @@ profile:
     <p>MIT, Cambridge, MA</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -29,4 +29,4 @@ I’m a first-year PhD student in Electrical Engineering and Computer Science at
 
 My research lies at the intersection of machine learning, optimization, and control, with a particular focus on developing new methods for large-scale problems in power and energy systems. Currently, I’m especially interested in embedding optimization layers and enforcing physical constraints in deep learning models, aiming to bring domain-grounded structure into the universal function approximators. 
 
-(In progress)
+[Email](mailto:hoangh@mit.edu) / [Google Scholar](https://scholar.google.com/citations?user=BajqYw8AAAAJ&hl=en) / [Github](https://github.com/hoang-tn) / [LinkedIn](https://www.linkedin.com/in/hoang-nguyen-971519201/)
