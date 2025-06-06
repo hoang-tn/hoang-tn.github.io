@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: hoang.tiff
+  image: hoang.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>MIT, Cambridge, MA</p>
