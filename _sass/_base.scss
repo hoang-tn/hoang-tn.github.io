@@ -498,6 +498,9 @@ footer.sticky-bottom {
   padding-top: 10px;
   padding-bottom: 10px;
   font-size: 0.9rem;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 
   .container {
     text-align: center;
