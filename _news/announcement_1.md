@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Hello world!!! :smile:
+Hello world!
