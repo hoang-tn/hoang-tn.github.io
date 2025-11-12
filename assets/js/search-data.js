@@ -384,8 +384,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-hello-world",
-          title: 'Hello world!',
+            },},{id: "news-our-paper-fsnet-has-been-accepted-to-neuips-2025-in-san-diego",
+          title: 'Our paper, FSNet, has been accepted to NeuIPS 2025 in San Diego.',
+          description: "",
+          section: "News",},{id: "news-our-paper-fsnet-has-been-featured-on-mit-news",
+          title: 'Our paper, FSNet, has been featured on MIT News.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
