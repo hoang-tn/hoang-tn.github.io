@@ -26,7 +26,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m a second-year PhD student in Electrical Engineering and Computer Science at MIT, where I’m fortunate to be advised by [Prof. Priya Donti](https://priyadonti.com/). Before coming to MIT, I earned my M.S. in Electrical and Electronics Engineering from Chung-Ang University in South Korea, and my B.Eng. in Control Engineering and Automation from Hanoi University of Science and Technology in Vietnam. I also worked for one year as a research scientist at KAIST, where I focused on safe reinforcement learning.
+I’m a third-year PhD student in Electrical Engineering and Computer Science at MIT, where I’m fortunate to be advised by [Prof. Priya Donti](https://priyadonti.com/). Before coming to MIT, I earned my M.S. in Electrical and Electronics Engineering from Chung-Ang University in South Korea, and my B.Eng. in Control Engineering and Automation from Hanoi University of Science and Technology in Vietnam. I also worked for one year as a research scientist at KAIST, where I focused on safe reinforcement learning.
 
 My research lies at the intersection of machine learning, optimization, and control, with a particular focus on developing new methods for large-scale problems in power and energy systems.
 
