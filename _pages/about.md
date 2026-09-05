@@ -30,4 +30,4 @@ I’m a third-year PhD student in Electrical Engineering and Computer Science at
 
 My research lies at the intersection of machine learning, optimization, and control, with a particular focus on developing new methods for large-scale problems in power and energy systems.
 
-[Email](mailto:hoangh@mit.edu) / [Google Scholar](https://scholar.google.com/citations?user=BajqYw8AAAAJ&hl=en) / [Github](https://github.com/hoang-tn) / [LinkedIn](https://www.linkedin.com/in/hoang-nguyen-971519201/)
+[Email](mailto:hoangh@mit.edu) / [Google Scholar](https://scholar.google.com/citations?user=BajqYw8AAAAJ&hl=en) / [Github](https://github.com/hoang-tn) / [LinkedIn](https://www.linkedin.com/in/hoang-nguyen-971519201/) / [CV]({{ '/assets/pdf/CV_Hoang_Nguyen.pdf' | relative_url }})
