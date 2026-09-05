@@ -199,6 +199,7 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    font-size: 0.9rem;
 
     p {
       display: inline-block;
@@ -248,7 +249,7 @@ ul.task-list input[type="checkbox"] {
   border-bottom: 1px solid var(--global-divider-color);
   background-color: var(--global-bg-color);
   opacity: 0.95;
-  padding: 0.4rem 1rem;
+  padding: 0.2rem 1rem;
 }
 
 .navbar .dropdown-menu {
@@ -496,9 +497,9 @@ footer.fixed-bottom {
 
 footer.sticky-bottom {
   border-top: 1px solid var(--global-divider-color);
-  padding-top: 10px;
-  padding-bottom: 10px;
-  font-size: 0.9rem;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 0.7rem;
 
   .container {
     text-align: center;
