@@ -393,7 +393,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-a-poster-on-self-supervised-learning-for-ac-opf-in-distribution-systems-with-hard-constraints-at-the-5th-workshop-on-foundation-models-of-the-electric-grid",
           title: 'I presented a poster on self-supervised learning for AC-OPF in distribution systems with...',
           description: "",
-          section: "News",},{id: "news-new-preprint-on-self-supervised-learning-for-ac-opf-in-distribution-systems-with-topology-reconfiguration-is-available-on-arxiv",
+          section: "News",},{id: "news-new-preprint-on-self-supervised-learning-for-ac-opf-in-distribution-systems-with-topology-reconfiguration-is-available-on-arxiv-source-code-is-coming-soon",
           title: 'New preprint on self-supervised learning for AC-OPF in distribution systems with topology reconfiguration...',
           description: "",
           section: "News",},{id: "projects-project-1",
