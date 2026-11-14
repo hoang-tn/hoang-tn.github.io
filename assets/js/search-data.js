@@ -181,17 +181,6 @@ ninja.data = [{
             window.location.href = "/blog/2023/post-bibliography/";
           
         },
-      },{id: "post-a-post-with-jupyter-notebook",
-        
-          title: "a post with jupyter notebook",
-        
-        description: "an example of a blog post with jupyter notebook",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2023/jupyter-notebook/";
-          
-        },
       },{id: "post-a-post-with-custom-blockquotes",
         
           title: "a post with custom blockquotes",
@@ -393,8 +382,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-a-poster-on-self-supervised-learning-for-ac-opf-in-distribution-systems-with-hard-constraints-at-the-5th-workshop-on-foundation-models-of-the-electric-grid",
           title: 'I presented a poster on self-supervised learning for AC-OPF in distribution systems with...',
           description: "",
-          section: "News",},{id: "news-new-preprint-on-self-supervised-learning-for-ac-opf-in-distribution-systems-with-topology-reconfiguration-is-available-on-arxiv-source-code-is-coming-soon",
-          title: 'New preprint on self-supervised learning for AC-OPF in distribution systems with topology reconfiguration...',
+          section: "News",},{id: "news-new-preprint-scalable-self-supervised-learning-for-multiphase-ac-opf-in-distribution-systems-with-topology-reconfiguration-code-is-coming-soon",
+          title: 'New preprint: Scalable Self-Supervised Learning for Multiphase AC-OPF in Distribution Systems with Topology...',
           description: "",
           section: "News",},{id: "news-delighted-to-give-an-invited-talk-on-scalable-self-supervised-learning-for-ac-opf-in-distribution-systems-in-the-learning-assisted-optimization-for-energy-systems-session-at-the-2026-informs-annual-meeting",
           title: 'Delighted to give an invited talk on Scalable self-supervised learning for AC-OPF in...',
